@@ -1,9 +1,13 @@
 # Digital Literacy Project
 
 Name: Jharna Gupta
+
 Registration Number: 25BAI10557
+
 Branch: B.Tech in Computer Science(Artificial Intelligence and Machine Learning)
+
 Year: 1st Year
+
 Course Code: CSE0001
 
 
